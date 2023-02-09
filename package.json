@@ -1,0 +1,25 @@
+{
+  "name": "razvojna_test",
+  "version": "1.0.0",
+  "description": "razvojna okolina test zadatak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kresomarenic/razvojna-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kresomarenic/razvojna-test/issues"
+  },
+  "homepage": "https://github.com/kresomarenic/razvojna-test#readme",
+  "dependencies": {
+    "random": "^4.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
